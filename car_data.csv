@@ -1,0 +1,79 @@
+﻿Make_Model,Make,Model,Range,NY_Rebate,Base_MSRP,Federal_Credit,Fuel_Economy,Type
+Tesla Model S,Tesla,Model S,405,$500 ,"$94,990 ",$0 ,120,Battery Electric Vehicle
+Mercedes EQS 450+,Mercedes,EQS 450+,350,$500 ,"$102,310 ","$7,500 ",97,Battery Electric Vehicle
+Tesla Model X,Tesla,Model X,348,$500 ,"$104,990 ",$0 ,102,Battery Electric Vehicle
+Mercedes EQS 580,Mercedes,EQS 580,340,$500 ,"$119,110 ","$7,500 ",95,Battery Electric Vehicle
+Tesla Model Y,Tesla,Model Y,316,$500 ,"$58,990 ",$0 ,122,Battery Electric Vehicle
+Kia EV6 77 kWh,Kia,EV6 77 kWh,292,$500 ,"$47,000 ","$7,500 ",111,Battery Electric Vehicle
+Tesla Model 3,Tesla,Model 3,272-315,$500 ,"$44,990 ",$0 ,132,Battery Electric Vehicle
+Polestar 2,Polestar,2,270,$500 ,"$45,900 ","$7,500 ",107,Battery Electric Vehicle
+Chevrolet Bolt,Chevrolet,Bolt,259,"$2,000 ","$31,000 ",$0 ,120,Battery Electric Vehicle
+Hyundai Kona Electric,Hyundai,Kona Electric,258,"$2,000 ","$34,000 ","$7,500 ",120,Battery Electric Vehicle
+Hyundai Ioniq 5 77 kWh,Hyundai,Ioniq 5 77 kWh,256,$500 ,"$43,650 ","$7,500 ",98,Battery Electric Vehicle
+Volkswagen ID.4,Volkswagen,ID.4,250,"$2,000 ","$39,995 ","$7,500 ",97,Battery Electric Vehicle
+Chevrolet Bolt EUV,Chevrolet,Bolt EUV,247,"$2,000 ","$33,000 ",$0 ,115,Battery Electric Vehicle
+Audi Q4 e-tron,Audi,Q4 e-tron,241,$500 ,"$43,900 ","$7,500 ",95,Battery Electric Vehicle
+Kia Niro Electric,Kia,Niro Electric,239,"$2,000 ","$39,990 ","$7,500 ",112,Battery Electric Vehicle
+Audi e-tron GT,Audi,e-tron GT,238,$500 ,"$99,900 ","$7,500 ",82,Battery Electric Vehicle
+Jaguar I-PACE,Jaguar,I-PACE,234,$500 ,"$69,850 ","$7,500 ",76,Battery Electric Vehicle
+Audi RS e-tron GT,Audi,RS e-tron GT,232,$500 ,"$139,900 ","$7,500 ",81,Battery Electric Vehicle
+Kia EV6 58 kWh,Kia,EV6 58 kWh,232,"$2,000 ","$40,900 ","$7,500 ",117,Battery Electric Vehicle
+Nissan Leaf  62 kWh,Nissan,Leaf  62 kWh,226,"$2,000 ","$32,400 ","$7,500 ",108,Battery Electric Vehicle
+Volvo XC40,Volvo,XC40,223,$500 ,"$53,990 ","$7,500 ",85,Battery Electric Vehicle
+Audi e-tron,Audi,e-tron,222,$500 ,"$65,900 ","$7,500 ",78,Battery Electric Vehicle
+Hyundai Ioniq 5 58 kWh,Hyundai,Ioniq 5 58 kWh,220,"$2,000 ","$39,700 ","$7,500 ",110,Battery Electric Vehicle
+Audi e-tron Sportback,Audi,e-tron Sportback,218,$500 ,"$69,100 ","$7,500 ",77,Battery Electric Vehicle
+Ford Mustang Mach-E,Ford,Mustang Mach-E,211–305,$500 ,"$42,895 ","$7,500 ",95,Battery Electric Vehicle
+Porsche Taycan,Porsche,Taycan,200,$500 ,"$82,700 ","$7,500 ",79,Battery Electric Vehicle
+Hyundai Ioniq Electric,Hyundai,Ioniq Electric,170,"$1,000 ","$33,245 ","$7,500 ",133,Battery Electric Vehicle
+"BMW i3 (2019, 2020. 2021)",BMW,"i3 (2019, 2020. 2021)",153,$500 ,"$44,450 ","$7,500 ",113,Battery Electric Vehicle
+BMW i3s,BMW,i3s,153,$500 ,"$47,650 ","$7,500 ",113,Battery Electric Vehicle
+Nissan Leaf 40 kWh,Nissan,Leaf 40 kWh,149,"$1,000 ","$27,400 ","$7,500 ",111,Battery Electric Vehicle
+"BMW i3 REx (2019, 2020, 2021)",BMW,"i3 REx (2019, 2020, 2021)",126,$500 ,"$48,300 ","$7,500 ",100,Plug-In Hybrid Electric Vehicle
+"BMW i3s REx (2019, 2020, 2021)",BMW,"i3s REx (2019, 2020, 2021)",126,$500 ,"$51,500 ","$7,500 ",100,Plug-In Hybrid Electric Vehicle
+MINI Cooper SE Hardtop 2 Door,MINI,Cooper SE Hardtop 2 Door,114,"$1,000 ","$29,900 ","$7,500 ",110,Battery Electric Vehicle
+Kia Soul EV,Kia,Soul EV,111,"$1,000 ","$33,950 ","$7,500 ",108,Battery Electric Vehicle
+smart electric fortwo,smart,electric fortwo,58,"$1,000 ","$25,390 ","$7,500 ",108,Battery Electric Vehicle
+Chevrolet Volt,Chevrolet,Volt,53,"$1,000 ","$33,520 ",$0 ,106,Plug-In Hybrid Electric Vehicle
+Polestar 1,Polestar,1,52,$500 ,"$155,000 ","$7,500 ",58,Plug-In Hybrid Electric Vehicle
+Honda Clarity Plug-in Hybrid,Honda,Clarity Plug-in Hybrid,47,"$1,000 ","$33,400 ","$7,500 ",110,Plug-In Hybrid Electric Vehicle
+Toyota RAV4 Prime,Toyota,RAV4 Prime,42,"$1,000 ","$39,800 ","$7,500 ",94,Plug-In Hybrid Electric Vehicle
+Ford Escape Plug-In Hybrid,Ford,Escape Plug-In Hybrid,38,$500 ,"$33,075 ","$6,843 ",100,Plug-In Hybrid Electric Vehicle
+Lexus NX450h+,Lexus,NX450h+,37,$500 ,"$56,725 ","$7,500 ",84,Plug-In Hybrid Electric Vehicle
+Hyundai Tucson Plug-in Hybrid,Hyundai,Tucson Plug-in Hybrid,33,$500 ,"$34,750 ","$6,586 ",80,Plug-In Hybrid Electric Vehicle
+Chrysler Pacifica,Chrysler,Pacifica,32,$500 ,"$46,760 ","$7,500 ",82,Plug-In Hybrid Electric Vehicle
+Kia Sorento Plug-in Hybrid,Kia,Sorento Plug-in Hybrid,32,$500 ,"$44,990 ","$6,670 ",79,Plug-In Hybrid Electric Vehicle
+BMW X5 xDrive45e,BMW,X5 xDrive45e,31,$500 ,"$63,700 ","$7,500 ",50,Plug-In Hybrid Electric Vehicle
+Hyundai Santa Fe Plug-in Hybrid,Hyundai,Santa Fe Plug-in Hybrid,30,$500 ,"$39,350 ","$6,586 ",76,Plug-In Hybrid Electric Vehicle
+Hyundai Ioniq Plug-in Hybrid,Hyundai,Ioniq Plug-in Hybrid,29,$500 ,"$26,800 ","$4,543 ",119,Plug-In Hybrid Electric Vehicle
+Kia Optima Plug-in Hybrid,Kia,Optima Plug-in Hybrid,29,$500 ,"$35,290 ","$4,919 ",103,Plug-In Hybrid Electric Vehicle
+Hyundai Sonata Plug-in Hybrid,Hyundai,Sonata Plug-in Hybrid,28,$500 ,"$33,400 ","$4,919 ",99,Plug-In Hybrid Electric Vehicle
+Audi A7,Audi,A7,26,$500 ,"$74,900 ","$6,712 ",70,Plug-In Hybrid Electric Vehicle
+Ford Fusion Energi,Ford,Fusion Energi,26,$500 ,"$35,000 ","$4,609 ",103,Plug-In Hybrid Electric Vehicle
+Kia Niro Plug-in Hybrid,Kia,Niro Plug-in Hybrid,26,$500 ,"$29,590 ","$4,543 ",105,Plug-In Hybrid Electric Vehicle
+Toyota Prius Prime,Toyota,Prius Prime,25,$500 ,"$28,220 ","$4,502 ",133,Plug-In Hybrid Electric Vehicle
+Mitsubishi Outlander,Mitsubishi,Outlander,24,$500 ,"$36,995 ","$6,587 ",74,Plug-In Hybrid Electric Vehicle
+Audi Q5,Audi,Q5,23,$500 ,"$52,900 ","$6,712 ",61,Plug-In Hybrid Electric Vehicle
+BMW 330e,BMW,330e,22,$500 ,"$42,950 ","$5,836 ",75,Plug-In Hybrid Electric Vehicle
+Mercedes-Benz GLC 350e,Mercedes-Benz,GLC 350e,22,$500 ,"$51,900 ","$6,462 ",68,Plug-In Hybrid Electric Vehicle
+Volvo S60 Polestar,Volvo,S60 Polestar,22,$500 ,$65.85 ,"$5,419 ",69,Plug-In Hybrid Electric Vehicle
+Volvo S60 T8,Volvo,S60 T8,22,$500 ,"$47,650 ","$5,419 ",69,Plug-In Hybrid Electric Vehicle
+Volvo V60 T8/Polestar,Volvo,V60 T8/Polestar,22,$500 ,"$67,300 ","$5,419 ",69,Plug-In Hybrid Electric Vehicle
+BMW 530e,BMW,530e,21,$500 ,"$55,550 ","$5,836 ",64,Plug-In Hybrid Electric Vehicle
+Jeep Wrangler 4xe,Jeep,Wrangler 4xe,21,$500 ,"$47,995 ","$7,500 ",49,Plug-In Hybrid Electric Vehicle
+Lincoln Aviator Grand Touring,Lincoln,Aviator Grand Touring,21,$500 ,"$68,900 ","$6,534 ",56,Plug-In Hybrid Electric Vehicle
+Volvo S90 T8,Volvo,S90 T8,21,$500 ,"$60,050 ","$5,419 ",63,Plug-In Hybrid Electric Vehicle
+BMW 330e xDrive,BMW,330e xDrive,20,$500 ,"$44,950 ","$5,836 ",67,Plug-In Hybrid Electric Vehicle
+BMW 530e xDrive,BMW,530e xDrive,19,$500 ,"$57,850 ","$5,836 ",62,Plug-In Hybrid Electric Vehicle
+Land Rover Range Rover,Land,Rover Range Rover,19,$500 ,"$83,000 ","$6,295 ",42,Plug-In Hybrid Electric Vehicle
+Audi A8,Audi,A8,18,$500 ,"$95,900 ","$6,712 ",53,Plug-In Hybrid Electric Vehicle
+Porsche Panamera 4 E-Hybrid,Porsche,Panamera 4 E-Hybrid,18,$500 ,"$105,000 ","$7,500 ",52,Plug-In Hybrid Electric Vehicle
+Volvo XC60 T8/Polestar,Volvo,XC60 T8/Polestar,18,$500 ,"$54,250 ","$5,419 ",57,Plug-In Hybrid Electric Vehicle
+Volvo XC90 T8,Volvo,XC90 T8,18,$500 ,"$63,800 ","$5,419 ",55,Plug-In Hybrid Electric Vehicle
+Bently Bentayga,Bently,Bentayga,17,$500 ,"$177,000 ","$7,500 ",46,Plug-In Hybrid Electric Vehicle
+BMW 745e xDrive,BMW,745e xDrive,17,$500 ,"$95,900 ","$5,836 ",56,Plug-In Hybrid Electric Vehicle
+BMW X3 xDrive30e,BMW,X3 xDrive30e,17,$500 ,"$49,600 ","$5,836 ",60,Plug-In Hybrid Electric Vehicle
+MINI Cooper S E Countryman ALL4,MINI,Cooper S E Countryman ALL4,17,$500 ,"$41,500 ","$5,002 ",73,Plug-In Hybrid Electric Vehicle
+Subaru Crosstrek Hybrid,Subaru,Crosstrek Hybrid,17,$500 ,"$35,345 ","$4,502 ",90,Plug-In Hybrid Electric Vehicle
+Porsche Cayenne E-Hybrid,Porsche,Cayenne E-Hybrid,16,$500 ,"$83,300 ","$7,500 ",46,Plug-In Hybrid Electric Vehicle
+BMW 740e xDrive,BMW,740e xDrive,14,$500 ,"$91,250 ","$4,668 ",64,Plug-In Hybrid Electric Vehicle
